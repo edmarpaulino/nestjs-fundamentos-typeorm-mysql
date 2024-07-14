@@ -1,0 +1,9 @@
+{
+  "github.copilot.enable": {
+    "*": false
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "sonarlint": "off",
+  "typescript.preferences.importModuleSpecifier": "relative"
+}
